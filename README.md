@@ -2,7 +2,7 @@
 
 A searchable, single-page reference for the **Yamaha Genos2** arranger workstation: voices, styles and drum kits.
 
-**Live page:** https://YOUR-USERNAME.github.io/GENOS2_resources/
+**Live page:** https://woodypianoshack.github.io/GENOS2_resources/
 
 ## What's inside
 
